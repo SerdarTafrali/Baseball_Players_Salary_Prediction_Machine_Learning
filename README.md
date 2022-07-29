@@ -1,3 +1,5 @@
+![image](/S_Baseball_Players_Salary_Prediction_ML:baseball_serdar_tafrali_machine_learning_data_scientist_artifial_intelligence_engineer.jpg)
+
 # Baseball Players Salary Prediction Project with Machine Learning (Regression Techniques)
 
 The aim of the project is to establish regression models and minimize error scores after exploratory data analysis, feature engineering and data preprocessing on the Hitters dataset, which includes statistics and salary information of baseball players.
