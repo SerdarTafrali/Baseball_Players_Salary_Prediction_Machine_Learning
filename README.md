@@ -1,4 +1,4 @@
-![image](/S_Baseball_Players_Salary_Prediction_ML:baseball_serdar_tafrali_machine_learning_data_scientist_artifial_intelligence_engineer.jpg)
+![image](/images/S_Baseball_Players_Salary_Prediction_ML:baseball_serdar_tafrali_machine_learning_data_scientist_artifial_intelligence_engineer.jpg)
 
 # Baseball Players Salary Prediction Project with Machine Learning (Regression Techniques)
 
