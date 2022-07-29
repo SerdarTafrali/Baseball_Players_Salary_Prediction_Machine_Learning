@@ -1,5 +1,6 @@
-# Baseball_Players_Salary_Prediction_ML
-Baseball Players Salary Prediction with Regression Techniques
+# Baseball Players Salary Prediction Project with Machine Learning (Regression Techniques)
+
+The aim of the project is to establish regression models and minimize error scores after exploratory data analysis, feature engineering and data preprocessing on the Hitters dataset, which includes statistics and salary information of baseball players.
 
 ## Explanation
 
